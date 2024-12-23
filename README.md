@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am 4 years experienced Unity game developer.<br>I have worked on multiplayer architectures, performance optimization, and creating tools for game designers.<br>In addition, my 10+ years in B2B C# development have given me a broad understanding of client-server architectures and distributed systems. 
+I am a Unity game developer with 4 years of experience.<br>I have worked on complex game mechanics, multiplayer architectures, performance optimization, and creating tools for game designers.<br>Additionally, my 10+ years in B2B C# development have given me a broad understanding of client-server architectures and distributed systems.
 
 
 # 💻 Tech Stack:
